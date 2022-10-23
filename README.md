@@ -1,7 +1,7 @@
 ###  olá eu não sou o goku
 
 - 🔭 Atualmente não estou trabalhando
-- 🌱 I’m currently learning  Java Script entre outros
+- 🌱 I’m currently learning  Java Script🍺
 - ⚡ Fun fact:  estudo Química no IFNMG 
 -->
 
