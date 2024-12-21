@@ -6,7 +6,7 @@ Hi there! I'm a **Chemistry student** from Minas Gerais, Brazil, who is passiona
 
 ## 🚀 About Me:
 
-- 🎓 **Chemistry Enthusiast**: I use my love for science to develop educational tools and concepts that make Chemistry more accessible and engaging for students.
+- 🎓 **Chemistry Enthusiast**: I use my passion for science to develop educational tools and concepts that make Chemistry more accessible and engaging for students.
 - 🧪 **Researcher**: Python is my go-to tool for analyzing data from experiments and research projects in Chemistry.
 - 🤖 **Self-Learner**: Currently diving into **Machine Learning** and **AI** to apply cutting-edge techniques to Chemistry and education. It’s a learning journey, and I’m constantly improving!
 - 🧑‍🏫 **Educator & Motivator**: I encourage students to combine Chemistry and Computer Science to enhance their studies and future careers.
@@ -16,7 +16,7 @@ Hi there! I'm a **Chemistry student** from Minas Gerais, Brazil, who is passiona
 ## 🛠️ Skills:
 
 - **Programming**: Python (basic to intermediate proficiency; always learning more!)
-- **Applications**: Chemistry data analysis, educational tool development
+- **Applications**: Chemistry data analysis, educational tool development, modeling, and projections of chemical structures in organic, inorganic, and biochemical contexts
 - **Learning Focus**: Machine Learning, AI, and advanced Python topics
 
 ---
