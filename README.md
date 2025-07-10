@@ -22,7 +22,7 @@ Hi there! I'm a **Chemistry student** from Minas Gerais, Brazil, who is passiona
 ---
 
 ## 🌟 Fun Fact:
-I believe in the power of **cross-disciplinary learning**. Combining Chemistry and programming opens doors to endless possibilities in both education and research. 🌈
+I believe in the power of **cross-disciplinary learning**. Combining Chemistry and programming opens doors to endless possibilities in both education and research.
 
 ---
 
